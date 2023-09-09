@@ -4,7 +4,7 @@
   border: 0;
 }
 
-.game {
+#game {
   margin: auto;
   margin-top: 200px;
   height: 100%;
@@ -23,4 +23,8 @@
 }
 .game_grid:active {
   background-color: blue;
+}
+
+.pressed {
+  background-color: purple;
 }
