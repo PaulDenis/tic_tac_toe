@@ -28,3 +28,6 @@
 .pressed {
   background-color: purple;
 }
+.pressed_enemy {
+  background-color: brown;
+}
